@@ -37,7 +37,7 @@ module MapVendorsToCollections
     end
 
     # Returns a fiber that calls the given block
-    # and yields the current bucket level with each all.
+    # and yields the current bucket level with each call.
     # This can be called with a different block each time.
     def run
       Fiber.new do |block|
