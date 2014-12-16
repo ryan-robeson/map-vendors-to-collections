@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require "map_vendors_to_collections"
+require "map_vendors_to_collections/cli"
+
+MapVendorsToCollections::Cli.start

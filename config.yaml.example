@@ -1,0 +1,5 @@
+---
+# config.yaml
+:key: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+:password: "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
+:site: "my-shopify-site-name"
